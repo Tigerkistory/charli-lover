@@ -170,4 +170,4 @@ def main():
 		print("[>>] Error : %s"%e)
 		exit("")
 if __name__ == '__main__':
-	login()
+	jadu()
